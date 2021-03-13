@@ -12,7 +12,7 @@ public class App {
         System.out.println(Arrays.toString(listaInt));*/
 
 
-        /*int qtdLinhas = 10;
+        int qtdLinhas = 10;
         int qtdColunas = 3;
         int[][] notas= new int[qtdLinhas][qtdColunas];
         notas[0][0]=5;
@@ -22,16 +22,16 @@ public class App {
             for(int j=0; j<qtdColunas; j++){
                 System.out.println(notas[i][j]);
             }
-        }*/
+        }
 
-        ArrayList<Integer> lista=new ArrayList<Integer>();
+        /*ArrayList<Integer> lista=new ArrayList<Integer>();
         lista.add(1);
         lista.add(5);
         System.out.println(lista);
 
         String s;
         boolean result = s.startsWith("");
-        
+        */
 
     }
 }
