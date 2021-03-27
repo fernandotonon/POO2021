@@ -5,9 +5,12 @@ public class Estudante {
         this.matriculado = matriculado;
         this.nota = nota;
     }
+    public Estudante (float nota, boolean matriculado){
+        this.matriculado = matriculado;
+        this.nota = nota;
+    }
     public Estudante(boolean matriculado){
         this(matriculado, 0.0f);
-        System.out.println("passei aqui");
     }
     public Estudante(float nota){
         this(true,nota);
