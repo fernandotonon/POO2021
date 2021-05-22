@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\aluno14\\Documents\\apache-tomcat-10.0.6\\lib\\tomcat-jni.jar",
+        "c:\\Users\\aluno14\\Documents\\apache-tomcat-10.0.6\\lib\\websocket-api.jar",
+        "c:\\Users\\aluno14\\Documents\\apache-tomcat-10.0.6\\lib\\el-api.jar"
+    ]
+}
